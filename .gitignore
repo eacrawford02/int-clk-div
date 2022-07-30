@@ -1,3 +1,4 @@
+.bash_history
 .Xil
 xsim.dir
 *.wdb
@@ -5,3 +6,4 @@ xsim.dir
 *.log
 *.pb
 *.str
+*.wcfg
